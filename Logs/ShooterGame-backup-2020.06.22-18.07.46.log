@@ -1,0 +1,13 @@
+﻿[2020.06.22-17.58.57:448][  0]Log file open, 06/22/20 17:58:57
+[2020.06.22-17.58.57:448][  0]ARK Version: 311.87
+[2020.06.22-17.58.57:448][  0]PID: 1322
+[2020.06.22-18.02.31:479][  0]Primal Game Data Took 207.58 seconds
+[2020.06.22-18.03.10:150][  0]SteamSocketsOpenSource: gethostname failed ()
+[2020.06.22-18.03.10:150][  0]gethostbyname failed ()
+[2020.06.22-18.04.46:015][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2020.06.22-18.04.46:050][  0]BattlEye successfully started.
+[2020.06.22-18.04.46:051][  0]bEnableMeshBitingProtection is True
+[2020.06.22-18.05.38:806][  0]Server: "[BR] THEREZINO DISFARÇADO" has successfully started!
+[2020.06.22-18.06.09:139][  0]Commandline:  CrystalIsles?bRawSockets?Port=7777?QueryPort=7778?listen?MaxPlayers=10 -nosteamclient -server -d3d10, -lowmemory, -high, -useallavailablecores
+[2020.06.22-18.06.09:139][  0]Full Startup: 439.49 seconds (BP compile: 0.00 seconds)
+[2020.06.22-18.06.09:139][  0]Number of cores 1
